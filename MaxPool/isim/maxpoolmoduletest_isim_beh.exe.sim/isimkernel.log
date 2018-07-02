@@ -1,0 +1,28 @@
+Command line:
+   maxpoolmoduletest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61520
+
+Mon Jul 02 19:09:36 2018
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 5171.74 Meg
+
+ Total Signals          : 19
+ Total Nets             : 174
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 17
+ Total Traceable Variables  : 26
+ Total Scalar Nets and Variables : 479
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 5171.74 Meg
+
+Mon Jul 02 19:09:54 2018
+

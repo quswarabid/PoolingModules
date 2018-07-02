@@ -1,0 +1,28 @@
+Command line:
+   avgpoolmoduletest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61529
+
+Mon Jul 02 19:10:11 2018
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 5171.75 Meg
+
+ Total Signals          : 20
+ Total Nets             : 206
+ Total Signal Drivers   : 12
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 17
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 447
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5171.75 Meg
+
+Mon Jul 02 19:10:20 2018
+
